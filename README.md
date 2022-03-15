@@ -1,7 +1,7 @@
 ## Olá eu sou o Marcus 👋
 
 - 🔭 Estou procurando emprego
-- 🌱 Estou estudando java
+- 🌱 Estou estudando java e Spring
 - 📫 Email para contato: mvsantosdev@gmail.com
 
 <div align="center">
